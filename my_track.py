@@ -188,7 +188,7 @@ for tracks in data:
     cursor.execute("insert into tracks(name, total_time, size, rating, artist_id,genre_id,album_id,kind_id) values(%s,%s,%s,%s,%s,%s,%s,%s)",row+all_id)
     db.commit()
             
-            
+     #himanshu       
         
 
         
